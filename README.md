@@ -5,4 +5,4 @@ Rails Based Online Project Management Web Application
     •	Designed and developed Ajax based frontend with ReactJS, Redux for middlewares and reducers as well as Yarn and Webpacks 
     •	Used Rail 5.1 to support MVC backend with MongoDB/MongoID
     •	Implemented real-time online chatting room with WebScoket and ActionCable to support backend job queue with Sidekip gem
-
+ 
