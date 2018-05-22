@@ -1,5 +1,5 @@
 # Project-Management-App
-Rails Based Online Project Management Web Application
+ Rails Based Online Project Management Web Application
 
     •	Implemented the web service with Ruby on Rails, Express, MongoDB, WebPacker and ReactJS for online sharing and commenting web application
     •	Designed and developed Ajax based frontend with ReactJS, Redux for middlewares and reducers as well as Yarn and Webpacks 
